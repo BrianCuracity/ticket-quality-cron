@@ -7,3 +7,4 @@ being public exposes nothing sensitive.
 
 Note: GitHub disables scheduled workflows after 60 days without repo activity —
 GitHub emails a one-click "keep workflow active" link before doing so.
+End
